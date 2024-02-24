@@ -11,23 +11,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/oIdioN/JavaScript-Password-Generator-challenge">
+  <a href="https://github.com/oIdioN/Day-Planner-App-Challenge">
     <img src="src/passwordapp.png" alt="Logo" width="220" height="180">
   </a>
 
 <h3 align="center">Javascript Password Generator</h3>
 
   <p align="center">
-   This challenge is about a Password Generator app features dynamically updated HTML and CSS, all powered by JavaScript. <br> App has to have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. <br> The password also includes special characters.
+   This Bootcamp Challenge is a simple calendar application that allows a user to save events for each hour of the day.<br>Done by modifying starter code, using DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. <br>This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
     <br />
     <br />
-    <a href="https://github.com/oIdioN/JavaScript-Password-Generator-challenge">Repo page</a>
+    <a href="https://github.com/oIdioN/Day-Planner-App-Challenge">Repo page</a>
     ·
-    <a href="https://oidion.github.io/JavaScript-Password-Generator-challenge">Deployed Application</a>
+    <a href="https://oidion.github.io/Day-Planner-App-Challenge">Deployed Application</a>
     ·
-    <a href="https://github.com/oIdioN/JavaScript-Password-Generator-challenge/issues">Report Bug</a>
+    <a href="https://github.com/oIdioN/Day-Planner-App-Challenge/issues">Report Bug</a>
     ·
-    <a href="https://github.com/oIdioN/JavaScript-Password-Generator-challenge/issues">Request Feature</a>
+    <a href="https://github.com/oIdioN/Day-Planner-App-Challenge/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,17 +83,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
 
 ### Prerequisites
 
-* Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
-    * Length of password
-      * At least 8 characters but no more than 128.
-    * Character types
-      * Lowercase
-      * Uppercase
-      * Numeric
-      * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+* n this Bootcamp Challenge, 7th in the row, a simple calendar application that allows a user to save events for each hour of the day by modifying starter code, using DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ### Installation
 
@@ -144,7 +134,7 @@ Also valid for the length, that not less than 8 or more than 128 characters can 
 Future releases:
 - [ ] Password length field will be changed to a slider
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/oIdioN/Day-Planner-App-Challenge/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,24 +174,23 @@ Distributed under the MIT License.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() In order to build the app, the internet sources has been used and altered, such as lines of code from StackoverFlow.
-* []() 
-* []()
+Original cover by <a href="https://unsplash.com/@benchaccounting?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bench Accounting</a> on <a href="https://unsplash.com/photos/white-wooden-table-near-brown-chair-nvzvOPQW0gc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/oIdioN/JavaScript-Password-Generator-challenge.svg?style=for-the-badge
-[contributors-url]: https://github.com/oIdioN/JavaScript-Password-Generator-challenge/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/oIdioN/JavaScript-Password-Generator-challenge.svg?style=for-the-badge
-[forks-url]: https://github.com/oIdioN/JavaScript-Password-Generator-challenge/forks
-[stars-shield]: https://img.shields.io/github/stars/oIdioN/JavaScript-Password-Generator-challenge.svg?style=for-the-badge
-[stars-url]: https://github.com/oIdioN/JavaScript-Password-Generator-challenge/stargazers
-[issues-shield]: https://img.shields.io/github/issues/oIdioN/JavaScript-Password-Generator-challenge.svg?style=for-the-badge
-[issues-url]: https://github.com/oIdioN/JavaScript-Password-Generator-challenge/issues
-[license-shield]: https://img.shields.io/github/license/oIdioN/JavaScript-Password-Generator-challenge.svg?style=for-the-badge
-[license-url]: https://github.com/oIdioN/JavaScript-Password-Generator-challenge?tab=MIT-1-ov-file#readme
+[contributors-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[contributors-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/graphs/contributors
+[forks-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[forks-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/forks
+[stars-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[stars-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/stargazers
+[issues-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[issues-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/issues
+[license-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[license-url]: https://github.com/oIdioN/Day-Planner-App-Challenge?tab=MIT-1-ov-file#readme
 [product-screenshot]: src/passwordapp.png
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
@@ -213,57 +202,3 @@ Distributed under the MIT License.
 ---
 (c) 2024 oIdioN. All rights reserved.
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Daily-Planner-App-Challenge-
-In this Bootcamp Challenge, 7th in the row, a simple calendar application that allows a user to save events for each hour of the day by modifying starter code, using DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-
-
-
-
-
-
- Original cover by <a href="https://unsplash.com/@benchaccounting?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bench Accounting</a> on <a href="https://unsplash.com/photos/white-wooden-table-near-brown-chair-nvzvOPQW0gc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-
-  
