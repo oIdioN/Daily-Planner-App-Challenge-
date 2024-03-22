@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -7,15 +6,11 @@
 [![MIT License][license-shield]][license-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/oIdioN/Day-Planner-App-Challenge">
-    <img src="src/passwordapp.png" alt="Logo" width="220" height="180">
-  </a>
-
-<h3 align="center">Javascript Password Generator</h3>
+  
+<h3 align="center">Day Planner</h3>
 
   <p align="center">
    This Bootcamp Challenge is a simple calendar application that allows a user to save events for each hour of the day.<br>Done by modifying starter code, using DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. <br>This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -60,11 +55,10 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Site](src/passwordapp.png "Site")
+![Site](src/images/dayplanner.png "Site")
 
 The screenshot of the app.
 
@@ -83,7 +77,10 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
 
 ### Prerequisites
 
+Acceptance Criteria
+
 The app should:
+
   * Display the current day at the top of the calendar when a user opens the planner.
   * Present timeblocks for standard business hours when the user scrolls down.
   * Color-code each timeblock based on past, present, and future when the timeblock is viewed.
@@ -94,38 +91,15 @@ The app should:
 
 ### Installation
 
-As the charachterset consist several data types, the best is if these treated as strings, therefore the charachterpool rewritten as here:
-
-```
-const pool = {
-  upperCase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-  lowerCase: "abcdefghijklmnopqrstuvwxyz",
-  numbers: "0123456789",
-  symbols: "!@#$%^&*()_+~\\`|}{[]:;?><,./-="
-}
-```
-Special characters based on [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+The App run in the browser. Launch index.html.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The app can be used to generate a password with the length of between 8 and 128 characters.
-Usage of the character options are not optional, at least one character type must be used as shown below:
-
-![Site](src/charopt.png "Site")
-
-
-Also valid for the length, that not less than 8 or more than 128 characters can be chosen:
-
-![Site](src/minnum.png "Site")
-
-
-
-![Site](src/maxnum.png "Site")
+The App is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,12 +108,12 @@ Also valid for the length, that not less than 8 or more than 128 characters can 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Password length declared
-- [ ] Charachters added
-- [ ] Checkboxes implemented
+- [ ] Structure has been implemented
+- [ ] Day.js had been implmented
+- [ ] Styling finalised
 
 Future releases:
-- [ ] Password length field will be changed to a slider
+- [ ] Design will be rewritten
 
 See the [open issues](https://github.com/oIdioN/Day-Planner-App-Challenge/issues) for a full list of proposed features (and known issues).
 
@@ -153,12 +127,10 @@ See the [open issues](https://github.com/oIdioN/Day-Planner-App-Challenge/issues
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
+Don't forget to give the project a star! 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -173,15 +145,11 @@ Distributed under the MIT License.
 ## Contact
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Original cover by <a href="https://unsplash.com/@benchaccounting?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bench Accounting</a> on <a href="https://unsplash.com/photos/white-wooden-table-near-brown-chair-nvzvOPQW0gc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
