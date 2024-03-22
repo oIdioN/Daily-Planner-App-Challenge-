@@ -74,7 +74,7 @@ The screenshot of the app.
 
 ### Built With
 
-![Static Badge](https://img.shields.io/badge/HTML-34%25-red?style=plastic) ![Static Badge](https://img.shields.io/badge/CSS-32%25-brightgreen?style=plastic) ![Static Badge](https://img.shields.io/badge/JavaScript-34%25-orange?style=plastic)
+![Static Badge](https://img.shields.io/badge/HTML-34%25-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CSS-32%25-brightgreen?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JavaScript-34%25-orange?style=for-the-badge)
 
 ## Getting Started
 
@@ -83,7 +83,14 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
 
 ### Prerequisites
 
-* n this Bootcamp Challenge, 7th in the row, a simple calendar application that allows a user to save events for each hour of the day by modifying starter code, using DOM manipulation, advanced JavaScript, integration of third-party APIs, and more. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The app should:
+  * Display the current day at the top of the calendar when a user opens the planner.
+  * Present timeblocks for standard business hours when the user scrolls down.
+  * Color-code each timeblock based on past, present, and future when the timeblock is viewed.
+  * Allow a user to enter an event when they click a timeblock.
+  * Save the event in local storage when the save button is clicked in that timeblock.
+  * Persist events between refreshes of a page.
+
 
 ### Installation
 
@@ -181,21 +188,21 @@ Original cover by <a href="https://unsplash.com/@benchaccounting?utm_content=cre
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
 [contributors-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/graphs/contributors
-[forks-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
 [forks-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/forks
-[stars-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
 [stars-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/stargazers
-[issues-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
 [issues-url]: https://github.com/oIdioN/Day-Planner-App-Challenge/issues
-[license-shield]: https://github.com/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/oIdioN/Day-Planner-App-Challenge.svg?style=for-the-badge
 [license-url]: https://github.com/oIdioN/Day-Planner-App-Challenge?tab=MIT-1-ov-file#readme
 [product-screenshot]: src/passwordapp.png
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 [Bulma]: https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white
 
 
